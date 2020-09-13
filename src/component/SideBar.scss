@@ -1,0 +1,22 @@
+.filerPanel{
+    background-color: #ffffff;
+    width: 150px;
+    padding: 10px;
+    height: 630px;
+    .HeaderText{
+        text-align: center;
+        border-bottom: solid 1px black;
+        font-size: 12px ;
+        padding-bottom: 5px;
+    }
+    .buttonText{
+        color: #000000;
+    }
+
+    .buttonDetails{
+        width: 150px;
+    }
+    .selected{
+background-color: blue;
+    }
+}   
